@@ -1,5 +1,7 @@
 # image-prewiewer
-Image prewiewer
+Image prewiever
+[Demo](https://rokasandreikenas.github.io/image-prewiewer/)
+
 
 ## Website splitted into two parts:
 *  The left side should be narrow and display one column of preview images with the ability to scroll.
