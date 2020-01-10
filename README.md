@@ -1,5 +1,5 @@
 # image-prewiewer
-Image prewiever
+Image prewiever<br/>
 [Demo](https://rokasandreikenas.github.io/image-prewiewer/)
 
 
